@@ -39,15 +39,15 @@ furia.
 ---
 
 ## 📁 Estructura de Archivos
-├── main.py # Script principal que lee desde Arduino y reproduce videos
-├── .gitignore # Ignora videos, imágenes pesadas y archivos temporales
-├── README.md # Documentación del proyecto
-├── videos/ # Carpeta para los archivos de video (.mp4) [no incluidos en el repo]
-│ └── .gitkeep
-├── images/ # Carpeta para capturas del prototipo o elementos visuales
-│ └── .gitkeep
-├── hardware/ # Fotos del montaje físico o referencias de conexión
-│ └── .gitkeep
+├── main.py # Script principal que lee desde Arduino y reproduce videos  
+├── .gitignore # Ignora videos, imágenes pesadas y archivos temporales  
+├── README.md # Documentación del proyecto  
+├── videos/ # Carpeta para los archivos de video (.mp4) [no incluidos en el repo]  
+│ └── .gitkeep  
+├── images/ # Carpeta para capturas del prototipo o elementos visuales  
+│ └── .gitkeep  
+├── hardware/ # Fotos del montaje físico o referencias de conexión  
+│ └── .gitkeep  
 
 ---
 
