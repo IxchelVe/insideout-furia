@@ -3,7 +3,7 @@
 Este proyecto fue desarrollado para una instalación interactiva inspirada en la película *Inside Out*, donde los participantes activan a la emoción **Furia** golpeando un botón físico. Según la intensidad del golpe, se reproduce un video distinto que representa su nivel de
 furia.
 
-> 🎨 También se diseñó un prototipo en Figma para visualizar la interfaz y flujo de usuario de esta experiencia.
+<!-- 🎨 También se diseñó un prototipo en Figma para visualizar la interfaz y flujo de usuario de esta experiencia.
 
 ---
 
@@ -14,7 +14,7 @@ furia.
 ![Prototipo en Figma](https://i.imgur.com/ejemplo.png)  
 *Vista previa del prototipo interactivo en Figma*
 
-> Si el enlace o la imagen no carga, asegúrate de tener el archivo de Figma publicado para compartir y reemplaza el link o imagen por los correctos.
+> Si el enlace o la imagen no carga, asegúrate de tener el archivo de Figma publicado para compartir y reemplaza el link o imagen por los correctos. -->
 
 ---
 
